@@ -1,0 +1,137 @@
+.container{
+    background-color: #f8f8f8;
+    width: 100%;
+}
+.container-img{
+    background-image: url(../images/header.jpg);
+    background-size: 100%; 
+    background-repeat: no-repeat;
+    height: 90vh; 
+}
+.logo{
+    width: 35%;
+    margin: 55% 0% 0% 25%;
+}
+.title{
+    color: rgb(20, 151, 134);
+    padding: 2%;
+    margin-left: 10%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+.link{
+    list-style: none;
+    display: inline-block;
+    padding: 1%;
+}
+.link a{
+    text-decoration: none;
+    color: rgb(20, 151, 134);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.link a:hover{
+    color: rgb(240, 83, 219);
+}
+.container-link{
+    margin-left: 55%;
+    padding: 2%;
+}
+.container-text{
+    padding: 0% 5% 5% 10%;
+    white-space: pre-line;
+}
+.subtitle{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 400;
+    color: rgb(20, 151, 134);
+}
+.text{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 400;
+    padding-bottom: 2%;
+}
+.btn{
+    background-color: rgb(20, 151, 134);
+    color: white;
+    border: none;
+    padding: 1%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    border-radius: 0.5em;
+}
+.contact{
+    width: 100%;
+}
+.info{
+    list-style: none;
+    padding: 2%;
+}
+.contact i, .contact p{
+    display: inline-block;
+}
+.contact i{
+    color:rgb(240, 83, 219);
+    padding-right: 3%;
+}
+.contact p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 400;
+}
+.contact h3{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 400;
+    color: rgb(20, 151, 134);
+}
+.container-img2{
+    /*border: 1px solid red;*/
+}
+.container-img2 img{
+    display: block;
+    margin: auto;
+}
+.container-img2 .title-2{
+    margin: 3% 0% 3% 5%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+    color: rgb(20, 151, 134);
+    border: 1px solid rgb(145, 145, 145);
+    width: 89%;
+    padding-left: 10%;
+}
+.container-img2 .paragraph{
+    width: 88%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 400;
+    margin-left: 5%; 
+    padding-left: 10%;
+    padding-right: 10%;
+    border: 1px solid rgb(145, 145, 145);
+}
+.container-images{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.container-footer{
+    background-color: rgb(20, 151, 134);
+}
+.btn2{
+    width: 88%;
+    border: 1px solid rgb(145, 145, 145);
+    padding: 5% 10% 5% 10%;
+    margin-left: 5%;
+}
+.container-img2 button{
+    background-color: rgb(240, 83, 219);
+    color: white;
+    border: none;
+    padding: 2%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    border-radius: 0.5em;
+    margin: 2% 0% 0% 5%;
+}
+.text-footer{
+    color: white;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 0.9em;
+    text-align: center;
+}
